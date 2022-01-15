@@ -1,4 +1,6 @@
 {
+  "entity.immersive_portals.portal": "Portal",
+  "entity.immersive_portals.nether_portal_new": "Nether Portal",
   "imm_ptl.server_side_config": "Server Side Config",
   "imm_ptl.client_side_config": "Client Side Config",
   "imm_ptl.loading_chunks": "Loading Chunks %1$s/%2$s",
